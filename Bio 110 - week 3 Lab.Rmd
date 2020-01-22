@@ -1,0 +1,12 @@
+
+---
+title: "Bio 110 Week 3"
+output:
+  pdf_document: default
+  html_notebook: default
+---
+
+# Lab 3 - Chlamydomas (?)
+
+
+Might be a good resource or model: http://www.stat.ucla.edu/~rgould/110as02/bsci
